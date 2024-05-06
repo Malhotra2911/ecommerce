@@ -11,7 +11,7 @@ export default {
             <div class="row mx-auto">
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/2.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/2.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -28,7 +28,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/1.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -45,7 +45,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/3.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/3.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -62,7 +62,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/4.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/4.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -79,7 +79,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/5.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/5.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -96,7 +96,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/6.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/6.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -113,7 +113,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/7.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/7.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
@@ -131,7 +131,7 @@ export default {
                 </div>
                 <div class="col-md-3 p-2">
                     <div class="card" style="width: 18rem;">
-                        <img src="../../categories/8.jpg" class="card-img-top" alt="...">
+                        <img src="../../public/categories/8.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-md-8">
