@@ -41,7 +41,7 @@ export default {
                     <img src="../../public/landingPage/10.png" alt="" class="fit-image">
                 </div>
                 <div class="col-md-7 text-uppercase displayBanner1_2">
-                    <p> <span class="d-flex justify-content-center displayBanner1_21">Online Business <br> and E-commerce</span><span class="d-flex justify-content-evenly displayBanner1_22">Lorem ipsum dolor sit amet.</span></p>
+                    <p> <span class="d-flex justify-content-center displayBanner1_21">Online <br> and E-commerce</span><span class="d-flex justify-content-evenly displayBanner1_22">Lorem ipsum dolor sit amet.</span></p>
                 </div>
             </div>
         </section>
