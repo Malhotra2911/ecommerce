@@ -4,12 +4,14 @@ export default {
     data() {
         return {
             productId: null,
-            productName: null
+            productName: null,
+            productPrice: null
         };
     },
     mounted() {
         this.productId = this.$route.query.id;
         this.productName = this.$route.query.name;
+        this.productPrice = this.$route.query.price;
     }
 }
 </script>
@@ -26,7 +28,7 @@ export default {
                 <div class="col-md-6">
                     <h2>{{productName}}</h2>
                     <hr>
-                    <h5 class="card-title"><i class="bi bi-currency-rupee"></i> 223 </h5>
+                    <h5 class="card-title"><i class="bi bi-currency-rupee"></i> {{ Math.round(parseInt(productPrice) + (parseInt(productPrice) * 0.18)) }} </h5>
                     <p class="text-muted">Inclusive of all taxes (18% GST)</p>
                     <hr>
                     <h5>Product Details</h5>

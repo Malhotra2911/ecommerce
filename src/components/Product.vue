@@ -18,11 +18,11 @@ export default {
                                     <h5 class="card-title text-uppercase">Mg Choice</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 99</h5>
                                 </div>
                                 <p class="card-text text-muted">Vantagekart Natural Cotton Plain Tote Shopping Bags with Extra...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 2, name: 'MG CHOICE Vantagekart Natural Cotton Plain Tote Shopping Bags' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 2, name: 'MG CHOICE Vantagekart Natural Cotton Plain Tote Shopping Bags', price: '99' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -35,11 +35,11 @@ export default {
                                     <h5 class="card-title text-uppercase">Fur Jaden</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 1019</h5>
                                 </div>
                                 <p class="card-text text-muted">Fur Jaden Red Textured Leatherette Stylish & Spacious...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 1, name: 'Fur Jaden Red Textured Leatherette Stylish & Spacious Weekender Duffle Bag for Travel' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 1, name: 'Fur Jaden Red Textured Leatherette Stylish & Spacious Weekender Duffle Bag for Travel', price: '1019' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -52,11 +52,11 @@ export default {
                                     <h5 class="card-title">Your Gift Studio</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 449</h5>
                                 </div>
                                 <p class="card-text text-muted">YOUR GIFT STUDIO Customized Leather Travel Wallet, Passport...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 3, name: 'YOUR GIFT STUDIO Customized Leather Travel Wallet, Passport Holder with Name & Charm | Personalized Passport Case, Leather Travel Document Holder for Men & Women Travel Accessories' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 3, name: 'YOUR GIFT STUDIO Customized Leather Travel Wallet, Passport Holder with Name & Charm | Personalized Passport Case, Leather Travel Document Holder for Men & Women Travel Accessories', price: '449' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -69,11 +69,11 @@ export default {
                                     <h5 class="card-title">Lunch Bags</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 399</h5>
                                 </div>
                                 <p class="card-text text-muted">Home Puff Lunch Bag for Women & Men, Insulated Lunch Bag...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 4, name: 'Home Puff Lunch Bag for Women & Men, Insulated Lunch Bag for 4 containers, Tiffin Lunch Bag for Office/College/School, Lightweight, Durable Handles, Cutlery Holder, Water Resistant' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 4, name: 'Home Puff Lunch Bag for Women & Men, Insulated Lunch Bag for 4 containers, Tiffin Lunch Bag for Office/College/School, Lightweight, Durable Handles, Cutlery Holder, Water Resistant', price: '399' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -86,11 +86,11 @@ export default {
                                     <h5 class="card-title">Laptop & Tablet Bags</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 649</h5>
                                 </div>
                                 <p class="card-text text-muted">Dyazo Water Resistant Laptop...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 5, name: 'Dyazo Water Resistant Laptop Sleeve with Handle Compatible for 15 Inch to 15.6 Inches laptops & Notebooks - Grey' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 5, name: 'Dyazo Water Resistant Laptop Sleeve with Handle Compatible for 15 Inch to 15.6 Inches laptops & Notebooks - Grey', price: '649' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -103,11 +103,11 @@ export default {
                                     <h5 class="card-title">Backpacks</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 599</h5>
                                 </div>
                                 <p class="card-text text-muted">Classic 20L Small Faux Leather Water Resistant Anti Theft...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 6, name: 'Gear Classic 20L Small Faux Leather Water Resistant Anti Theft Laptop Backpack' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 6, name: 'Gear Classic 20L Small Faux Leather Water Resistant Anti Theft Laptop Backpack', price: '599' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -120,12 +120,12 @@ export default {
                                     <h5 class="card-title">Messenger Bags</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 649</h5>
                                 </div>
                                 <p class="card-text text-muted">Canvas Splash-Proof Laptop Messenger Bag for up to 15.6"...</p>
                             </div>
                             
-                            <router-link :to="{path: '/order', query: { id: 7, name: 'Contacts Canvas Splash-Proof Laptop Messenger Bag for up to 15.6 Laptop/Mac with Genuine Leather Trim | Laptop Sleeve Sling Bag with Shoulder Strap' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 7, name: 'Contacts Canvas Splash-Proof Laptop Messenger Bag for up to 15.6 Laptop/Mac with Genuine Leather Trim | Laptop Sleeve Sling Bag with Shoulder Strap', price: '649' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
@@ -138,11 +138,11 @@ export default {
                                     <h5 class="card-title">Cooler Bags</h5>
                                 </div>
                                 <div class="col-md-4">
-                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 189</h5>
+                                    <h5 class="card-title d-flex justify-content-end"><i class="bi bi-currency-rupee"></i> 559</h5>
                                 </div>
                                 <p class="card-text text-muted">Outer Woods Insulated 6 Can Cooler Bag | Fits 6 x 500ml...</p>
                             </div>
-                            <router-link :to="{path: '/order', query: { id: 8, name: 'Outer Woods Insulated 6 Can Cooler Bag | Fits 6 x 500ml Beer Cans | Keep Cans Cool for up to 10 Hrs | with 2 Units of Ice Gel Packs' }}" class="btn btn-outline-warning">View Details</router-link>
+                            <router-link :to="{path: '/order', query: { id: 8, name: 'Outer Woods Insulated 6 Can Cooler Bag | Fits 6 x 500ml Beer Cans | Keep Cans Cool for up to 10 Hrs | with 2 Units of Ice Gel Packs', price: '559' }}" class="btn btn-outline-warning">View Details</router-link>
                         </div>
                     </div>
                 </div>
