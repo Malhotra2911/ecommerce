@@ -99,26 +99,26 @@ export default {
                     <form>
                         <div class="row">
                             <div class="mb-3">
-                                <label for="exampleInputPassword1" class="form-label">Name</label>
-                                <input type="text" class="form-control" id="exampleInputPassword1" required>
+                                <label for="name" class="form-label">Name</label>
+                                <input type="text" class="form-control" id="name" required>
                             </div>
                             <div class="col-md-6">
                                 <div class="mb-3">
-                                    <label for="exampleInputEmail1" class="form-label">Email address</label>
-                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
+                                    <label for="email" class="form-label">Email address</label>
+                                    <input type="email" class="form-control" id="email" aria-describedby="emailHelp" required>
                                     <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="mb-3">
-                                    <label for="exampleInputPassword1" class="form-label">Subject</label>
-                                    <input type="text" class="form-control" id="exampleInputPassword1" required>
+                                    <label for="subject" class="form-label">Subject</label>
+                                    <input type="text" class="form-control" id="subject" required>
                                 </div>
                             </div>
                         </div>
                         <div class="mb-3">
-                            <label for="exampleInputPassword1" class="form-label">Message</label>
-                            <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea" required></textarea>
+                            <label for="message" class="form-label">Message</label>
+                            <textarea class="form-control" placeholder="Leave a comment here" id="message" required></textarea>
                         </div>
                         <button type="submit" class="btn btn-outline-dark">Send Message</button>
                     </form>
