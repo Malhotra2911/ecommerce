@@ -21,7 +21,7 @@ export default {
         <section class="order">
             <div class="row">
                 <div class="col-md-6">
-                    <img :src="'../../public/categories/' + productId + '.jpg'" class="card-img-top" alt="">
+                    <img :src="'../../categories/' + productId + '.jpg'" class="card-img-top" alt="">
                     <button type="button" class="btn btn-outline-info mx-2 my-2">Add to Cart</button>
                     <button type="button" class="btn btn-outline-warning mx-2 my-2">Buy Now</button>
                 </div>
